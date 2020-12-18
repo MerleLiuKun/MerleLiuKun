@@ -2,6 +2,7 @@
 
 - 🌱 Now work with Python and Go
 - 📫 merle.liukun@gmail.com
+- 😄 Pronouns: up up
 
 <!--
 **MerleLiuKun/MerleLiuKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
