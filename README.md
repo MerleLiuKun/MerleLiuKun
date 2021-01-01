@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 Now work with Python and Go
+- 🔭 Now working with Python and Go
+- 🌱 I’m currently learning Go.
 - 📫 merle.liukun@gmail.com
 - 😄 Pronouns: up up
 
