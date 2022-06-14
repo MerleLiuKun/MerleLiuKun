@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Go.
 - 📫 merle.liukun@gmail.com
 - 😄 Pronouns: up up
+- ⚡ Fun fact: I lost 15 kg in three months.
 
 <!--
 **MerleLiuKun/MerleLiuKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
