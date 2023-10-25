@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Now working with Python and Go
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Java!
 - 📫 merle.liukun@gmail.com
 - 😄 Pronouns: up up
 - ⚡ Fun fact: I lost 15 kg in three months.
