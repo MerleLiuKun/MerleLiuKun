@@ -3,8 +3,8 @@
 - 🔭 Now working with Python and Go
 - 🌱 I’m currently learning Java!
 - 📫 merle.liukun@gmail.com
-- 😄 Pronouns: up up
-- ⚡ Fun fact: I lost 15 kg in three months.
+- 😄 Pronouns: up up up
+- ⚡ Fun fact: I lost 15 kg in three months. Welcome to 2024!
 
 <!--
 **MerleLiuKun/MerleLiuKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
