@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java!
 - 📫 merle.liukun@gmail.com
 - 😄 Pronouns: up up up
-- ⚡ Fun fact: I lost 15 kg in three months. Welcome to 2024!
+- ⚡ Fun fact: I lost 15 kg in three months. Welcome to 2025!
 
 <!--
 **MerleLiuKun/MerleLiuKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
